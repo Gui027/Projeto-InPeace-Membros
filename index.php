@@ -22,7 +22,7 @@
                 <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="?page=nova">Novo Membro</a>
+                <a class="nav-link" href="?page=novo">Novo Membro</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="?page=listar">Listar Membros</a>
