@@ -16,3 +16,6 @@ Back-end:
   ```
   Optei por usar o Xampp para criar todo o ambiente e ter um melhor desenvolvimento.
   ```
+## Melhorias
+
+- Colocar select dinâmico nos estados e cidades.
